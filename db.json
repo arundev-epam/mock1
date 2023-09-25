@@ -8,5 +8,104 @@
         "position": 1,
         "level": 1,
         "product_count": 98
+    },
+    "distributors": {
+        "distributors": [
+            {
+                "key": "pk-distributor-1",
+                "name": "Pakistan Distributor 1",
+                "partyId": "partyId 1234567890",
+                "phoneNumber": "+0 (000) 1234567890",
+                "addressDetails": "address details 1",
+                "emailAddress": "distributor1@email.address",
+                "locationInfo": {
+                    "district": "test district updated",
+                    "subdistrict": "test subdistrict updated",
+                    "geoAreaBoundary": 55,
+                    "geoCoordinates": {
+                        "longitude": 0,
+                        "latitude": 0
+                    }
+                },
+                "sellGroups": [
+                    "SEEDS"
+                ],
+                "distributorAcceptedPaymentOptions": [
+                    "CASH_ON_DELIVERY"
+                ],
+                "acceptedProductCategories": [],
+                "isEcommerceActivated": false,
+                "isApproved": false
+            },
+            {
+                "key": "pk-distributor-2",
+                "name": "Pakistan Distributor 2",
+                "partyId": "partyId 1234567890",
+                "phoneNumber": "+0 (000) 1234567890",
+                "addressDetails": "address details 2",
+                "emailAddress": "distributor1@email.address",
+                "locationInfo": {
+                    "district": "test district ",
+                    "subdistrict": "test subdistrict updated",
+                    "geoAreaBoundary": 55,
+                    "geoCoordinates": {
+                        "longitude": 180,
+                        "latitude": 44.789
+                    }
+                },
+                "sellGroups": [
+                    "CROP_PROTECTION"
+                ],
+                "distributorAcceptedPaymentOptions": [
+                    "CASH_ON_DELIVERY"
+                ],
+                "acceptedProductCategories": [],
+                "isEcommerceActivated": false,
+                "isApproved": false
+            },
+            {
+                "key": "122TRT3tt-store",
+                "name": "polandNew",
+                "partyId": "1234",
+                "phoneNumber": "",
+                "addressDetails": "address",
+                "emailAddress": "",
+                "locationInfo": {
+                    "district": "null",
+                    "subdistrict": "null",
+                    "geoAreaBoundary": 0,
+                    "geoCoordinates": null
+                },
+                "sellGroups": [
+                    "SEEDS"
+                ],
+                "distributorAcceptedPaymentOptions": [
+                    "CASH_ON_DELIVERY"
+                ],
+                "acceptedProductCategories": [],
+                "isEcommerceActivated": true,
+                "isApproved": true
+            }
+        ]
+    },
+    "markets": {
+        "markets": [
+            {
+                "key": "pk-b2b2c-store",
+                "type": "B2B2C",
+                "name": "Pakistan market",
+                "countries": [
+                    "PK"
+                ]
+            },
+            {
+                "key": "pl-b2c-store",
+                "type": "B2C",
+                "name": "Poland market",
+                "countries": [
+                    "PL"
+                ]
+            }
+        ]
     }
 }
