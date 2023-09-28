@@ -1,5 +1,55 @@
 {
-    "products": [],
+    "products": [
+        {
+        "id": "86118848-6985-4200-8d30-4bb73613d944",
+        "name": "AMISTAR GOLD MAX - skuteczny fungicyd dla buraka i rzepaku",
+        "description": "<div class=\"h2-wrapper\">Test_description</div>",
+        "productType": "crop-protection",
+        "brand": "AMISTAR GOLD MAX",
+        "crop": [],
+        "videos": [
+          {
+            "videoUrl": "https://www.youtube.com/watch?v=UcJu8rdge1w",
+            "videoUrlDescription": "Tak chronimy hektary rzepaku niskim kosztem!"
+          },
+          {
+            "videoUrl": "https://www.youtube.com/watch?v=YQLVEgqDmgg",
+            "videoUrlDescription": "Buraki cukrowe na słabym stanowisku."
+          }
+        ],
+        "unitOfMeasure": "l",
+        "externalSkuId": "65928",
+        "size": 1,
+        "activeIngredients": [
+          "253"
+        ],
+        "formulation": "SC",
+        "operationMode": "wgłębny, układowy",
+        "cropProtectionType": "",
+        "cropProtectionGroup": [
+          "125 g/l (11,4%) azoksystrobina (związek z grupy strobiluryn) + 125 g/l (11,4%) difenokonazol (związek z grupy triazoli)"
+        ],
+        "images": [
+          {
+            "url": "https://sklep.syngenta.pl/media/catalog/product/a/m/amistar_gold_max_1l_1_1.jpg",
+            "label": "",
+            "dimensions": {
+              "w": 700,
+              "h": 1000
+            }
+          },
+          {
+            "url": "https://sklep.syngenta.pl/media/catalog/product/a/m/amistar_gold_max_5l.jpg",
+            "label": "",
+            "dimensions": {
+              "w": 700,
+              "h": 1000
+            }
+          }
+        ],
+        "files": []
+      }
+    ],
     "categories": {
         "id": 2,
         "parent_id": 1,
