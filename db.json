@@ -210,52 +210,6 @@
           "acceptedProductCategories": [],
           "isEcommerceActivated": true,
           "isApproved": false
-        },
-        {
-          "id": "122TRT3tt301-store",
-          "key": "122TRT3tt301-store",
-          "distributorName": "Ravalpindi Syngenta",
-          "partyId": "1234301",
-          "phoneNumber": "989654321",
-          "addressDetails": "Ravalpindi Syngenta Address",
-          "emailAddress": "syngenta301@syngenta.com",
-          "locationInfo": {
-            "areas": [],
-            "geoAreaBoundary": 0,
-            "geoCoordinates": null
-          },
-          "sellGroups": [
-            "SEEDS"
-          ],
-          "distributorAcceptedPaymentOptions": [
-            "CASH_ON_DELIVERY"
-          ],
-          "acceptedProductCategories": [],
-          "isEcommerceActivated": true,
-          "isApproved": true
-        },
-        {
-          "id": "122TRT3tt401-store",
-          "key": "122TRT3tt401-store",
-          "distributorName": "Imran Store",
-          "partyId": "1234401",
-          "phoneNumber": "997654321",
-          "addressDetails": "Imran Syngenta Address",
-          "emailAddress": "Imran@syngenta.com",
-          "locationInfo": {
-            "areas": [],
-            "geoAreaBoundary": 0,
-            "geoCoordinates": null
-          },
-          "sellGroups": [
-            "SEEDS"
-          ],
-          "distributorAcceptedPaymentOptions": [
-            "CASH_ON_DELIVERY"
-          ],
-          "acceptedProductCategories": [],
-          "isEcommerceActivated": true,
-          "isApproved": true
         }
     ],
     "markets": {
