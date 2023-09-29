@@ -164,6 +164,167 @@
           "acceptedProductCategories": [],
           "isEcommerceActivated": true,
           "isApproved": true
+        },
+        {
+          "id": "122TRT3tt101-store",
+          "key": "122TRT3tt101-store",
+          "distributorName": "Lahore Syngenta",
+          "partyId": "123101",
+          "phoneNumber": "9876543210",
+          "addressDetails": "Lahore Syngenta Address",
+          "emailAddress": "syngenta101@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt201-store",
+          "key": "122TRT3tt201-store",
+          "distributorName": "Peshavar Syngenta",
+          "partyId": "123201",
+          "phoneNumber": "987654321",
+          "addressDetails": "Peshavar Syngenta Address",
+          "emailAddress": "syngenta201@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": false
+        },
+        {
+          "id": "122TRT3tt301-store",
+          "key": "122TRT3tt301-store",
+          "distributorName": "Ravalpindi Syngenta",
+          "partyId": "1234301",
+          "phoneNumber": "989654321",
+          "addressDetails": "Ravalpindi Syngenta Address",
+          "emailAddress": "syngenta301@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt401-store",
+          "key": "122TRT3tt401-store",
+          "distributorName": "Imran Store",
+          "partyId": "1234401",
+          "phoneNumber": "997654321",
+          "addressDetails": "Imran Syngenta Address",
+          "emailAddress": "Imran@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt501-store",
+          "key": "122TRT3tt501-store",
+          "distributorName": "Yousuf Store",
+          "partyId": "1234501",
+          "phoneNumber": "988654321",
+          "addressDetails": "Yousuf Syngenta Address",
+          "emailAddress": "Yousuf@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": true
+        },
+        {
+          "id": "122TRT3tt601-store",
+          "key": "122TRT3tt601-store",
+          "distributorName": "Mohammed Store",
+          "partyId": "1234601",
+          "phoneNumber": "987854321",
+          "addressDetails": "Mohammed Syngenta Address",
+          "emailAddress": "Mohammed@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": false
+        },
+        {
+          "id": "122TRT3tt701-store",
+          "key": "122TRT3tt701-store",
+          "distributorName": "Imran Store",
+          "partyId": "1234701",
+          "phoneNumber": "986654321",
+          "addressDetails": "Yaseen Syngenta Address",
+          "emailAddress": "Yaseen@syngenta.com",
+          "locationInfo": {
+            "areas": [],
+            "geoAreaBoundary": 0,
+            "geoCoordinates": null
+          },
+          "sellGroups": [
+            "SEEDS"
+          ],
+          "distributorAcceptedPaymentOptions": [
+            "CASH_ON_DELIVERY"
+          ],
+          "acceptedProductCategories": [],
+          "isEcommerceActivated": true,
+          "isApproved": false
         }
     ],
     "markets": {
