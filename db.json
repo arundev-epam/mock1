@@ -62,6 +62,7 @@
     "distributors": {
         "distributors": [
           {
+            "id": "pk-distributor-1",
             "key": "pk-distributor-1",
             "distributorName": "Pakistan Distributor 1",
             "partyId": "partyId 1234567890",
@@ -116,6 +117,7 @@
             "isApproved": true
           },
           {
+            "id": "pk-distributor-2",
             "key": "pk-distributor-2",
             "distributorName": "Pakistan Distributor 2",
             "partyId": "partyId 1234567890",
@@ -141,6 +143,7 @@
             "isApproved": false
           },
           {
+            "id": "122TRT3tt-store",
             "key": "122TRT3tt-store",
             "distributorName": "polandNew",
             "partyId": "1234",
